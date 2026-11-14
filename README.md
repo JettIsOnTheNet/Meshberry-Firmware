@@ -1,6 +1,6 @@
 # MESHBERRY! (BETA... work in progress... docs not finished!)
 
-**The revolutionary, sensational, pocket-sized, OFF-GRID messaging machine that puts the ultimate mesh POWER of [MeshCore](https://meshcore.co.uk/) right in the palm of your hand!**
+**The (counter) revolutionary, sensational, pocket-sized, OFF-GRID messaging machine that puts the ultimate mesh POWER of [MeshCore](https://meshcore.co.uk/) right in the palm of your hand!**
 
 That's right! **NO phone! NO SIM card! NO monthly bill** from some mustachioed telecommunications baron! Just you, your LilyGO T-LoRa Pager, and a whole WORLD of messages flying through the air!
 
@@ -16,21 +16,35 @@ MeshBerry isn't just one pretty face! Oh, no, no, no! We've got **THREE FLAVOURS
 | **Radar / map** | ![Meshberry radar](screenshots/meshberry/radar.png) | ![Mesherola radar](screenshots/mesherola/radar.png) | ![Bold 9000 map](screenshots/bold/map-node.png) |
 
 
-## AND WHAT CAN THESE MAGNIFICENT MACHINES DO?!
+## PAGES OF PAGING!
 
-**MESSAGES! MESSAGES! MESSAGES!** Private messages! Public channels! Private channels! Room servers! Delivery status! @mentions! EMOJI! Talk to your friends, random neighbours, that cute barista at the cafe you can't get the courage to talk to, and a mysterious node three hills away!
+**IT WORKS ALL BY ITSELF!**
 
-**PEOPLE!** An address book! Discovered nodes! QR codes! NFC tags! Custom ring tones for your contacts and channels, because why should your favourite person sound like everybody else?!
+Leave the phone in your pocket! Or at home! Or in a drawer! And if you DO own one of those fancy modern phones, MeshBerry will happily play companion radio to the MeshCore app over Bluetooth!
 
-**MESHNESS!** Trace your paths! Inspect message routes! Check your signal! Find nodes on a radar or a map! Manage repeaters, rooms and sensors from your couch!
+**MESSAGES! MESSAGES! MESSAGES!**
 
-**IT WORKS ALL BY ITSELF!** Leave the phone in your pocket! Or at home! Or in a drawer! And if you DO own one of those fancy modern phones, MeshBerry will happily play companion radio to the MeshCore app over Bluetooth!
+Private messages! Public channels! Private channels! Room servers! Delivery status! @mentions! EMOJI! Talk to your friends, random neighbours, that cute barista at the cafe you can't get the courage to talk to, and a mysterious node three hills away!
 
-**AND THAT'S NOT ALL!** Calendar! Tasks! Alarm! GPS! WiFi! A web page on your own network for messages, maps, files and settings! Flip it face-down to mute!
+**PEOPLE!**
 
-**YOUR OWN DATA??!** Contacts! Messages! Settings! All living on the SD card! Move the card to another pager and take your world with you!
+Address book! Discovered nodes! QR codes! NFC tags! Custom ring tones for your contacts and channels, because why should your favourite person sound like everybody else?!
 
-**PRIVACY? WE'VE GOT THAT TOO!** MeshBerry doesn't advertise itself or share its position unless you tell it to. You're in control!
+**MESHNESS!**
+
+Trace your paths! Inspect message routes! Check your signal! Find nodes on a radar or a map! Manage repeaters, rooms and sensors from your couch!
+
+**AND THAT'S NOT ALL!**
+
+Calendar! Tasks! Alarm! GPS! WiFi! A web page on your own network for messages, maps, files and settings! Flip it face-down to mute!
+
+**YOUR OWN DATA??!**
+
+Contacts! Messages! Settings! All living on the SD card! Move the card to another pager and take your world with you!
+
+**PRIVACY? WE'VE GOT THAT TOO!**
+
+MeshBerry doesn't advertise itself or share its position unless you tell it to. You're in control!
 
 ## SO WHAT ARE YOU WAITING FOR?!
 
@@ -44,7 +58,7 @@ The internet might be down! The cell towers might be out! The world might be col
 
 ---
 
-# The fine print
+# KNOWN PROBS
 
 It works day to day, but expect rough edges; see [Known limits](docs/FAQ.md#known-limits).
 

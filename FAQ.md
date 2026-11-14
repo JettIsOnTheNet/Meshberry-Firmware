@@ -28,7 +28,7 @@ It is estimated from cell voltage. Tell us the percentage shown and how long it 
 The map needs tiles on the SD card.
 
 **Does it work with the MeshCore phone app?**
-Yes, over Bluetooth, as a companion radio. Default PIN 123456.
+Yes, over Bluetooth, as a companion radio. Default PIN 123456. Which is the same combination I have on my luggage.
 
 ## Known limits
 
