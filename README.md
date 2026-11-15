@@ -84,7 +84,14 @@ Bug reports and ideas are always welcome in [Issues](https://github.com/JettIsOn
 | Device | Radio | Status |
 |---|---|---|
 | LilyGO T-LoRa Pager | SX1262 | Supported |
-| LilyGO T-LoRa Pager | LR1121 | Not yet! |
+| LilyGO T-LoRa Pager - Meshtastic | SX1262?? | I assume it's the same unit with different firmware but... |
+| LilyGO T-LoRa Pager | LR1121 | Not yet! Don't have one.. |
+
+## Things I'd like to support
+| Device | Radio | Status |
+|---|---|---|
+| LilyGO T-Deck Pro | SX1262 | Soon enough... |
+| LilyGO T-Deck Pro - Meshtastic | SX1262? | Same question as Pager - Meshtastic?? |
 
 A FAT32 microSD card (32 GB or smaller) is recommended!
 
