@@ -2,13 +2,9 @@
 
 MeshBerry comes as two firmwares with three looks between them. They share almost everything; this is where they differ, and what each has.
 
-- **Meshberry** and **Mesherola** are the two styles of the dot-matrix firmware: [guide](MESHBERRY-MESHEROLA.md)
-- **MeshBerry Bold 9000** is the colour firmware: [guide](BOLD-9000.md)
-
 | Feature | Meshberry | Mesherola | MeshBerry Bold 9000 |
 |---|---|---|---|
-| Firmware file | `MeshBerry-�` (both styles in one) | `MeshBerry-�` (both styles in one) | `MeshBerryBold-�` |
-| Look | Icon row, olive-green dot-matrix glass | Big-text menus, side-lit dot-matrix screen | Full colour, late-2000s smartphone |
+| Firmware file | `MeshBerry-` (both styles in one) | `MeshBerry-` (both styles in one) | `MeshBerryBold-` |
 | Switch style without reflashing | Yes, to Mesherola | Yes, to Meshberry | One style |
 | Private messages, one conversation per person | Yes | Yes | Yes |
 | Delivery status (sent, delivered, not delivered) | Yes | Yes | Yes |
