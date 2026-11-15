@@ -58,11 +58,15 @@ The internet might be down! The cell towers might be out! The world might be col
 
 ---
 
-# KNOWN PROBS
+# KNOWN LIMITS
 
 It works day to day, but expect rough edges; see [Known limits](docs/FAQ.md#known-limits).
 
-The source is not published yet (if ever) and pull requests are not accepted. Bug reports and ideas are welcome in [Issues](https://github.com/JettIsOnTheNet/MeshBerry-Firmware/issues).
+I have not published the source and pull requests are not accepted. I don't want spam pull requests in this repo, AI trolling the source, people selling variants of it, or this firmware to be sold preinstalled. If you would like to preinstall it to sell devices, or you have legit reasons for wanting source or repo access, please contact me to see if we can work something out.
+
+With that said:
+
+Bug reports and ideas are always welcome in [Issues](https://github.com/JettIsOnTheNet/MeshBerry-Firmware/issues).
 
 ## Compatible hardware
 
