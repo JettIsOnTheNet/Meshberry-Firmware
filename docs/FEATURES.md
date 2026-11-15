@@ -7,7 +7,7 @@ MeshBerry comes as two firmwares with three looks between them. They share almos
 
 | Feature | Meshberry | Mesherola | MeshBerry Bold 9000 |
 |---|---|---|---|
-| Firmware file | `MeshBerry-…` (both styles in one) | `MeshBerry-…` (both styles in one) | `MeshBerryBold-…` |
+| Firmware file | `MeshBerry-ï¿½` (both styles in one) | `MeshBerry-ï¿½` (both styles in one) | `MeshBerryBold-ï¿½` |
 | Look | Icon row, olive-green dot-matrix glass | Big-text menus, side-lit dot-matrix screen | Full colour, late-2000s smartphone |
 | Switch style without reflashing | Yes, to Mesherola | Yes, to Meshberry | One style |
 | Private messages, one conversation per person | Yes | Yes | Yes |
@@ -42,5 +42,3 @@ MeshBerry comes as two firmwares with three looks between them. They share almos
 | Private key export and import | Yes | Yes | Yes |
 | Key Lock for a pocket (hold the wheel to unlock) | Yes | Yes | Yes |
 | Flip to Mute, Power Saver, Radio Sleep (test) | Yes | Yes | Yes |
-
-Which file to download for each is in the [install guide](INSTALL.md).
