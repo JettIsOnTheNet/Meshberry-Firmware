@@ -1,4 +1,15 @@
-# MESHBERRY! (BETA... work in progress... docs not finished!)
+# MESHBERRY! (BETA...)
+
+## Documentation
+
+- [Install guide](docs/INSTALL.md)
+- [Meshberry and Mesherola](docs/MESHBERRY-MESHEROLA.md) – the OG firmware, in depth - (soon. ref Bold Docs for now)
+- [MeshBerry Bold 9000](docs/BOLD-9000.md) – colour firmware, in depth
+- [Web interface](docs/WEB.md) – web control panel
+- [Feature comparison](docs/FEATURES.md) – side by side comparison
+- [Maps](docs/MAPS.md) - maps setup info - (soon)
+- [FAQ and basic troubleshooting](docs/FAQ.md)
+- [Third-party notices](THIRD-PARTY-NOTICES.md) - (soon)
 
 **The (counter) revolutionary, sensational, pocket-sized, OFF-GRID messaging machine that puts the ultimate mesh POWER of [MeshCore](https://meshcore.co.uk/) right in the palm of your hand!**
 
